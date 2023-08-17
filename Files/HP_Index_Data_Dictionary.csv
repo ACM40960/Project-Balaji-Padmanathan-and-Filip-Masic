@@ -1,0 +1,62 @@
+Variable Name,Variable Label
+SmallArea2011,2011 Small Area ID
+County,County
+ID06,ED Identifier 2006
+ED_Name,ED Name
+NUTS1,Ireland
+NUTS2,S&E/BMW Region
+NUTS3,Regional Authority
+NUTS4,County
+FLAG2006,SA with zero Population in 2006
+SA_DEF2011,2016 matching stats
+SmallArea2017,2016 SA Identifier
+SA_GUID_2017,additional CSO Identifier
+HP2006abs,2006 Absolute HP Index Score
+HP2011abs,2011 Absolute HP Index Score
+HP2016abs,2016 Absolute HP Index Score
+HP2006rel,2006 Relative HP Index Score
+HP2011rel,2011 Relative HP Index Score
+HP2016rel,2016 Relative HP Index Score
+TOTPOP02,2002 Total population
+TOTPOP06,2006 Total population
+TOTPOP11,2011 Total population
+TOTPOP16,2016 Total population
+POPCHG06,2006 Population Change
+POPCHG11,2011 Population Change
+POPCHG16,2016 Population Change
+AGEDEP06,2006 Age dependency ratio
+AGEDEP11,2011 Age dependency ratio
+AGEDEP16,2016 Age dependency ratio
+LONEPA06,2006 Lone parents ratio
+LONEPA11,2011 Lone parents ratio
+LONEPA16,2016 Lone parents ratio
+EDLOW_06,2006 Proportion with primary education only
+EDLOW_11,2011 Proportion with primary education only
+EDLOW_16,2016 Proportion with primary education only
+EDHIGH06,2006 Proportion with third level education
+EDHIGH11,2011 Proportion with third level education
+EDHIGH16,2016 Proportion with third level education
+HLPROF06,2006 Proportion of higher and lower professionals
+HLPROF11,2011 Proportion of higher and lower professionals
+HLPROF16,2016 Proportion of higher and lower professionals
+LSKILL06,2006 Proportion of semi and unskilled manual workers
+LSKILL11,2011 Proportion of semi and unskilled manual workers
+LSKILL16,2016 Proportion of semi and unskilled manual workers
+UNEMPM06,2006 Unemployment rate - male
+UNEMPM11,2011 Unemployment rate - male
+UNEMPM16,2016 Unemployment rate - male
+UNEMPF06,2006 Unemployment rate - female
+UNEMPF11,2011Unemployment rate - female
+UNEMPF16,2016 Unemployment rate - female
+PEROOM06,2006 Average persons per room
+PEROOM11,2011 Average persons per room
+PEROOM16,2016 Average persons per room
+LARENT06,2006 Proportion of LA rented in all perm priv hhlds
+LARENT11,2011 Proportion of LA rented in all perm priv hhlds
+LARENT16,2016 Proportion of LA rented in all perm priv hhlds
+PRRENT06,2006 Proportion of private rented in all perm priv hhlds
+PRRENT11,2011 Proportion of private rented in all perm priv hhlds
+PRRENT16,2016 Proportion of private rented in all perm priv hhlds
+OHOUSE06,2006 Proportion of owner occupied hhlds
+OHOUSE11,2011 Proportion of owner occupied hhlds
+OHOUSE16,2016 Proportion of owner occupied
