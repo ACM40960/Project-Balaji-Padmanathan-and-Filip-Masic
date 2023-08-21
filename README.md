@@ -176,7 +176,9 @@ The below step-by-step guide will help you navigate through the repository and e
 ![image](https://github.com/ACM40960/Project-Balaji-Padmanathan-and-Filip-Masic/assets/133981001/0072e1d6-a9c4-49ef-95af-018eb96b6448)
 
 - Thus, in order to remove such redundant hotspots, we decided to keep it simple and adopted a strategy of choosing just one hotspot from each cluster, which became the Optimal Hotspot for that cluster
-- Thus we ended up with a total of 1,658 Optimal Hotspots from the 1,658 clusters
+- In order to pick the One Hotspot for each cluster, we decided to pick the hotspot which was representative of the whole cluster
+- We did this by identifying the hotspot that was the closest to the centroid of that cluster
+- In this way, we ended up with a total of 1,658 Optimal Hotspots from the 1,658 clusters
 
 ![image](https://github.com/ACM40960/Project-Balaji-Padmanathan-and-Filip-Masic/assets/133981001/3274f3bd-2187-4b5f-95c2-667de8aa9ca5)
 
@@ -192,10 +194,10 @@ The below step-by-step guide will help you navigate through the repository and e
 - The Sphere of Influence represents a defined geographical area surrounding the central hotspot, enabling a detailed consideration of its impact and subsequently its ranking
 - This approach enabled us to narrow our focus to the immediate vicinity of each hotspot, facilitating an objective ranking based on their contextual surroundings
   ![image](https://github.com/ACM40960/Project-Balaji-Padmanathan-and-Filip-Masic/assets/133981001/f6c3d7fa-826c-40f8-8d7f-59aa1a0f6b9e)
-- Radius of each hotspot's sphere is determined based on the population density, which reflect the hotspot's significance. By incorporating this, hotspots in densely populated areas will have a smaller sphere while loosely populated areas will have a bigger sphere
-- We created a mapping function which enabled us to smoothly transform the normalized population density (using min-max normalization) values into meaningful radius values \
+- Radius of each hotspot's sphere was determined based on the population density, which reflect the hotspot's significance. By incorporating this, hotspots in densely populated areas had a smaller sphere while loosely populated areas had a bigger sphere
+- To perform this, we created a mapping function which enabled us to smoothly transform the normalized population density (using min-max normalization) values into meaningful radius values \
   ![image](https://github.com/ACM40960/Project-Balaji-Padmanathan-and-Filip-Masic/assets/133981001/b1abb785-2505-4e4f-9651-0c51af4e7931)
-- The resulting radius for each hotspot in the Sphere of Influence represents its range of impact and helped us perform the next step - Ranking of these Optimal Hotspots \
+- The resulting radius for each hotspot in the Sphere of Influence represented its range of impact and helped us perform the next step - Ranking of these Optimal Hotspots \
 \
   ![image](https://github.com/ACM40960/Project-Balaji-Padmanathan-and-Filip-Masic/assets/133981001/769f914b-cf1f-4ca1-a5a6-b82f7340cfc5)
 
