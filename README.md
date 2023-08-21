@@ -9,6 +9,11 @@
 [![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen)]()
 [![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen)]()
 
+![EV Station](https://github.com/ACM40960/Project-Balaji-Padmanathan-and-Filip-Masic/assets/133981001/c5851eb5-3b3a-4c1c-b1e1-01ac53b20c95)
+
+Gif Credits - https://www.enterpriseappstoday.com/news/electric-car-chargers-market-current-scenario-and-future-prospects.html
+
+
 #### NOTE: 
 Due to the comprehensive nature of our Jupyter notebook, the file's size is substantial, making it impractical for direct viewing. To conveniently access its contents without the need for downloading, we kindly suggest utilizing the provided nbviewer link below:
 
